@@ -85,7 +85,12 @@ O NotebookLM foi utilizado como ferramenta de apoio ao aprendizado para:
 
 
 ---
+# 🛠️ Tecnologias e Ferramentas Utilizadas
 
+- GitHub para versionamento e documentação do projeto.
+- NotebookLM como ferramenta de Inteligência Artificial para estudo e organização do conhecimento.
+- AWS Documentation como fonte oficial de pesquisa.
+- Markdown para estruturação da documentação.
 # 📖 Documentação Complementar
 
 📚 [Fontes utilizadas](fontes.md)
