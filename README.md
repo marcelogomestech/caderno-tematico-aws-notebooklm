@@ -1,6 +1,6 @@
-# 📘 Caderno Temático AWS com NotebookLM
+#  Caderno Temático AWS com NotebookLM
 
-## 🚀 Sobre o Projeto
+##  Sobre o Projeto
 
 Este projeto foi desenvolvido como parte de um desafio da DIO, utilizando Inteligência Artificial como ferramenta de aprendizagem ativa.
 
@@ -8,7 +8,7 @@ O objetivo deste projeto é criar um caderno temático sobre **Fundamentos de Co
 
 ---
 
-# 🎯 Objetivos
+#  Objetivos
 
 Este projeto tem como objetivos:
 
@@ -20,7 +20,7 @@ Este projeto tem como objetivos:
 
 ---
 
-# ☁️ Tema Escolhido
+#  Tema Escolhido
 
 ## Fundamentos de Computação em Nuvem AWS
 
@@ -30,7 +30,7 @@ A AWS (Amazon Web Services) é uma das maiores plataformas de computação em nu
 
 ---
 
-# 🖥️ Serviços AWS Estudados
+#  Serviços AWS Estudados
 
 ## Amazon EC2
 
@@ -69,7 +69,7 @@ Exemplos:
 
 ---
 
-# 🤖 Uso da Inteligência Artificial
+#  Uso da Inteligência Artificial
 
 O NotebookLM foi utilizado como ferramenta de apoio ao aprendizado para:
 
@@ -81,27 +81,28 @@ O NotebookLM foi utilizado como ferramenta de apoio ao aprendizado para:
 
 ---
 
-# 📚 Estrutura do Projeto
+# Estrutura do Projeto
 
 
 ---
-# 🛠️ Tecnologias e Ferramentas Utilizadas
+#  Tecnologias e Ferramentas Utilizadas
 
 - GitHub para versionamento e documentação do projeto.
 - NotebookLM como ferramenta de Inteligência Artificial para estudo e organização do conhecimento.
 - AWS Documentation como fonte oficial de pesquisa.
 - Markdown para estruturação da documentação.
-# 📖 Documentação Complementar
+- 
+#  Documentação Complementar
 
-📚 [Fontes utilizadas](fontes.md)
+ [Fontes utilizadas](fontes.md)
 
-🤖 [Engenharia de Prompts](prompts.md)
+ [Engenharia de Prompts](prompts.md)
 
-📘 [Glossário AWS](glossario.md)
+ [Glossário AWS](glossario.md)
 
 ---
 
-# ✅ Conclusão
+#  Conclusão
 
 Este projeto demonstra como a Inteligência Artificial pode ser utilizada como uma ferramenta de aprendizagem ativa, auxiliando na organização do conhecimento, revisão de conteúdos e desenvolvimento de habilidades técnicas relacionadas à Computação em Nuvem AWS.
 
